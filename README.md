@@ -1,1 +1,1 @@
-### webmachine template (meta)
+### Understanding Machine (meta)

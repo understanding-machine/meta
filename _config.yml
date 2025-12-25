@@ -6,15 +6,15 @@ relative_links:
 include:
   - README.md
   - LICENSE.md
-url: https://thingking-machine.github.io
+url: https://understanding-machine.github.io
 baseurl: /meta
 
-title: Thingking Machine
+title: Understanding Machine
 description: A machine is a thing. Things can not think. ...but some of them can thingk!
 
 machine:
-  name: Thingking-Machine
-  instructions_file: thingking.md
+  name: Understanding-Machine
+  instructions_file: understanding.md
   token: meta
   server: https://localhost:443
   apiUrl: https://api.llama.com/v1/chat/completions
@@ -31,8 +31,8 @@ lm:
   top_k: 50
 
 github_settings:
-  owner: thingking-machine
-  repo: thingking_machine
+  owner: understanding-machine
+  repo: understanding_machine
   file_name: machina.yaml
   branch: main
   token_file: github.txt
